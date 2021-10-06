@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\bin\Debug\netcoreapp3.1\enumerationLecture.exe
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\bin\Debug\netcoreapp3.1\enumerationLecture.deps.json
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\bin\Debug\netcoreapp3.1\enumerationLecture.runtimeconfig.json
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\bin\Debug\netcoreapp3.1\enumerationLecture.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\bin\Debug\netcoreapp3.1\enumerationLecture.dll
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\bin\Debug\netcoreapp3.1\enumerationLecture.pdb
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.AssemblyInfo.cs
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.dll
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.pdb
+C:\Users\yashi\source\repos\enumerationLecture\enumerationLecture\obj\Debug\netcoreapp3.1\enumerationLecture.genruntimeconfig.cache
